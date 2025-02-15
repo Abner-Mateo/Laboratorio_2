@@ -1,0 +1,14 @@
+C:\Progra-ejercicos\Declaracion_Variables\Operaciones_Matematicas\bin\Debug\net8.0\Operaciones_Matematicas.exe
+C:\Progra-ejercicos\Declaracion_Variables\Operaciones_Matematicas\bin\Debug\net8.0\Operaciones_Matematicas.deps.json
+C:\Progra-ejercicos\Declaracion_Variables\Operaciones_Matematicas\bin\Debug\net8.0\Operaciones_Matematicas.runtimeconfig.json
+C:\Progra-ejercicos\Declaracion_Variables\Operaciones_Matematicas\bin\Debug\net8.0\Operaciones_Matematicas.dll
+C:\Progra-ejercicos\Declaracion_Variables\Operaciones_Matematicas\bin\Debug\net8.0\Operaciones_Matematicas.pdb
+C:\Progra-ejercicos\Declaracion_Variables\Operaciones_Matematicas\obj\Debug\net8.0\Operaciones_Matematicas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Progra-ejercicos\Declaracion_Variables\Operaciones_Matematicas\obj\Debug\net8.0\Operaciones_Matematicas.AssemblyInfoInputs.cache
+C:\Progra-ejercicos\Declaracion_Variables\Operaciones_Matematicas\obj\Debug\net8.0\Operaciones_Matematicas.AssemblyInfo.cs
+C:\Progra-ejercicos\Declaracion_Variables\Operaciones_Matematicas\obj\Debug\net8.0\Operaciones_Matematicas.csproj.CoreCompileInputs.cache
+C:\Progra-ejercicos\Declaracion_Variables\Operaciones_Matematicas\obj\Debug\net8.0\Operaciones_Matematicas.dll
+C:\Progra-ejercicos\Declaracion_Variables\Operaciones_Matematicas\obj\Debug\net8.0\refint\Operaciones_Matematicas.dll
+C:\Progra-ejercicos\Declaracion_Variables\Operaciones_Matematicas\obj\Debug\net8.0\Operaciones_Matematicas.pdb
+C:\Progra-ejercicos\Declaracion_Variables\Operaciones_Matematicas\obj\Debug\net8.0\Operaciones_Matematicas.genruntimeconfig.cache
+C:\Progra-ejercicos\Declaracion_Variables\Operaciones_Matematicas\obj\Debug\net8.0\ref\Operaciones_Matematicas.dll

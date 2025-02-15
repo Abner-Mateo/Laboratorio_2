@@ -1,0 +1,14 @@
+C:\Progra-ejercicos\Declaracion_Variables\Oereciones_Logicas\bin\Debug\net8.0\Oereciones_Logicas.exe
+C:\Progra-ejercicos\Declaracion_Variables\Oereciones_Logicas\bin\Debug\net8.0\Oereciones_Logicas.deps.json
+C:\Progra-ejercicos\Declaracion_Variables\Oereciones_Logicas\bin\Debug\net8.0\Oereciones_Logicas.runtimeconfig.json
+C:\Progra-ejercicos\Declaracion_Variables\Oereciones_Logicas\bin\Debug\net8.0\Oereciones_Logicas.dll
+C:\Progra-ejercicos\Declaracion_Variables\Oereciones_Logicas\bin\Debug\net8.0\Oereciones_Logicas.pdb
+C:\Progra-ejercicos\Declaracion_Variables\Oereciones_Logicas\obj\Debug\net8.0\Oereciones_Logicas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Progra-ejercicos\Declaracion_Variables\Oereciones_Logicas\obj\Debug\net8.0\Oereciones_Logicas.AssemblyInfoInputs.cache
+C:\Progra-ejercicos\Declaracion_Variables\Oereciones_Logicas\obj\Debug\net8.0\Oereciones_Logicas.AssemblyInfo.cs
+C:\Progra-ejercicos\Declaracion_Variables\Oereciones_Logicas\obj\Debug\net8.0\Oereciones_Logicas.csproj.CoreCompileInputs.cache
+C:\Progra-ejercicos\Declaracion_Variables\Oereciones_Logicas\obj\Debug\net8.0\Oereciones_Logicas.dll
+C:\Progra-ejercicos\Declaracion_Variables\Oereciones_Logicas\obj\Debug\net8.0\refint\Oereciones_Logicas.dll
+C:\Progra-ejercicos\Declaracion_Variables\Oereciones_Logicas\obj\Debug\net8.0\Oereciones_Logicas.pdb
+C:\Progra-ejercicos\Declaracion_Variables\Oereciones_Logicas\obj\Debug\net8.0\Oereciones_Logicas.genruntimeconfig.cache
+C:\Progra-ejercicos\Declaracion_Variables\Oereciones_Logicas\obj\Debug\net8.0\ref\Oereciones_Logicas.dll

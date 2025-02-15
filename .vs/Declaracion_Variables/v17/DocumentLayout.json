@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Progra-ejercicos\\Declaracion_Variables\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4A7849C9-C8C9-4465-84CE-CC73D036B7B9}|Declaracion_Variables\\Declaracion_Variables.csproj|c:\\progra-ejercicos\\declaracion_variables\\declaracion_variables\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A7849C9-C8C9-4465-84CE-CC73D036B7B9}|Declaracion_Variables\\Declaracion_Variables.csproj|solutionrelative:declaracion_variables\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5D5038D-D55A-4DC4-9F30-4EAF0ACB3718}|Oereciones_Logicas\\Oereciones_Logicas.csproj|c:\\progra-ejercicos\\declaracion_variables\\oereciones_logicas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5D5038D-D55A-4DC4-9F30-4EAF0ACB3718}|Oereciones_Logicas\\Oereciones_Logicas.csproj|solutionrelative:oereciones_logicas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E384822D-8992-4048-8641-E77F0A4F3AD2}|Operaciones_Matematicas\\Operaciones_Matematicas.csproj|c:\\progra-ejercicos\\declaracion_variables\\operaciones_matematicas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E384822D-8992-4048-8641-E77F0A4F3AD2}|Operaciones_Matematicas\\Operaciones_Matematicas.csproj|solutionrelative:operaciones_matematicas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Progra-ejercicos\\Declaracion_Variables\\Operaciones_Matematicas\\Program.cs",
+              "RelativeDocumentMoniker": "Operaciones_Matematicas\\Program.cs",
+              "ToolTip": "C:\\Progra-ejercicos\\Declaracion_Variables\\Operaciones_Matematicas\\Program.cs",
+              "RelativeToolTip": "Operaciones_Matematicas\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAgwAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T03:14:24.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Progra-ejercicos\\Declaracion_Variables\\Oereciones_Logicas\\Program.cs",
+              "RelativeDocumentMoniker": "Oereciones_Logicas\\Program.cs",
+              "ToolTip": "C:\\Progra-ejercicos\\Declaracion_Variables\\Oereciones_Logicas\\Program.cs",
+              "RelativeToolTip": "Oereciones_Logicas\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAowBIAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T03:01:11.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Progra-ejercicos\\Declaracion_Variables\\Declaracion_Variables\\Program.cs",
+              "RelativeDocumentMoniker": "Declaracion_Variables\\Program.cs",
+              "ToolTip": "C:\\Progra-ejercicos\\Declaracion_Variables\\Declaracion_Variables\\Program.cs",
+              "RelativeToolTip": "Declaracion_Variables\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAgwAYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T01:34:55.244Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
